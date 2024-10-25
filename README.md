@@ -12,7 +12,8 @@
      **ChatBot**: Projetando e desenvolvendo soluções de chatbots baseadas em regras para integração com WhatsApp
   
 - 📫 Vamos nos conectar!
-      **Email:** bruna.desenvolvedora@gmail.com
+      -**Email:** bruna.desenvolvedora@gmail.com
+      -**Celular:** (11) 95901-2302
 
 <!---
 bruhvicente/bruhvicente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
